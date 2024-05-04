@@ -157,6 +157,13 @@ body *{
     margin: auto;
     font-size: 20px;
     display: none;
-    transition: .1s;
+    
 
+}
+
+.campos{
+    color: red;
+    margin: auto;
+    font-size: 20px;
+    display: none;
 }
